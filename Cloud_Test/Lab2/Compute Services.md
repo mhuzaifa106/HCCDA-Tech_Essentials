@@ -1,4 +1,6 @@
-# Lab Screenshots 
+# Compute Services Practice - HUawei Koolabs
+
+## Lab Screenshots 
 
 (https://github.com/mhuzaifa106/HCCDA-Tech_Essentials/blob/main/Cloud_Test/Lab2/Images/IMG-20250720-WA0017.jpg)
 
