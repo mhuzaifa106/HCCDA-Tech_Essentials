@@ -1,2 +1,2 @@
-# Lab_Task_AI_Corvit
+# HCCDA-Tech_Essentials
 This is a practice repository 
